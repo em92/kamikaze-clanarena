@@ -16,7 +16,7 @@ Kamikaze Clan Arena is modification of Clan Arena gamemode which enables players
 - quarantine
 
 ### Requirements
-ToDo: official minqlx not released yet
+- unofficial minqlx build: https://github.com/em92/minqlx/tree/develop
 
 ### Contact
 ToDo: discussion on steamcommunity
