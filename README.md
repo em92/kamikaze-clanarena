@@ -1,7 +1,7 @@
 # Kamikaze Clan Arena
 
 ### Description
-Kamikaze Clan Arena is modification of Clan Arena gamemode which enables players to use kamikaze item.
+Kamikaze Clan Arena is modification of Clan Arena gamemode which enables players to use kamikaze. Item spawns in 10 seconds after round stars.
 
 ### Supported maps:
 - almostlost
